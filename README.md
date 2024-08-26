@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ujaas lohani</h1>
+<h1 align="center">Hi 👋, I'm ujaas lohani<img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="50"></h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujaaslohani&label=Profile%20views&color=0e75b6&style=flat" alt="ujaaslohani" /> </p>
