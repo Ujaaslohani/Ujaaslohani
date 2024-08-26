@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujaaslohani" alt="ujaaslohani" /></a> </p>
 
-- 📫 How to reach me **ujaaslohani2611@gmail.com**
+-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8li6u-34e71b80-762d-43fc-8b6f-188857d3f28a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3NWRmYWU5LWY5YjUtNDZjOS1iY2Q4LTYyZTdkNDBiYTE3N1wvZGc4bGk2dS0zNGU3MWI4MC03NjJkLTQzZmMtOGI2Zi0xODg4NTdkM2YyOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M5pIxZn0ag9CA4_YBKQiehdzV_EOlBRVcMUW7O_KdGc" width="50"> 📫 How to reach me **ujaaslohani2611@gmail.com**
 
 <h3 align="left">Connect with me: <img src="https://media.tenor.com/JW0XaqKXJfsAAAAi/cat-pixelated.gif" width="30"></h3>
 <p align="left">
