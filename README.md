@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ujaaslohani2611@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://media.tenor.com/JW0XaqKXJfsAAAAi/cat-pixelated.gif" width="30"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ujaas-lohani-a78375311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujaas lohani" height="30" width="40" /></a>
 <a href="https://instagram.com/ujaaslohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujaaslohani" height="30" width="40" /></a>
