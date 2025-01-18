@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ujaas lohani<img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100"></h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujaaslohani&label=Profile%20views&color=0e75b6&style=flat" alt="ujaaslohani" /> <img src="https://i.pinimg.com/originals/1e/4f/0e/1e4f0eb0885c18f96a847304259bde45.gif" width="100" > </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujaaslohani&label=Profile%20views&color=0e75b6&style=flat" alt="ujaaslohani" /> <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" width="55" height="55" > </p>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8li6u-34e71b80-762d-43fc-8b6f-188857d3f28a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3NWRmYWU5LWY5YjUtNDZjOS1iY2Q4LTYyZTdkNDBiYTE3N1wvZGc4bGk2dS0zNGU3MWI4MC03NjJkLTQzZmMtOGI2Zi0xODg4NTdkM2YyOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M5pIxZn0ag9CA4_YBKQiehdzV_EOlBRVcMUW7O_KdGc" width="50"> 📫 My email address is ujaaslohani2611@gmail.com 
 
